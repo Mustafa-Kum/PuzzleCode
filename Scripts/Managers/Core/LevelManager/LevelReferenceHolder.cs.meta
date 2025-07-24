@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a5b23fb23a32747258e0e25108f3e19b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gridManager: {instanceID: 0}
+  - playerSavableData: {fileID: 11400000, guid: cf71d29ad4b5c4c8a8971272fdfeb280, type: 2}
+  - gridObjectColorData: {fileID: 11400000, guid: c9c36de3c175d514790606933136a45c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
